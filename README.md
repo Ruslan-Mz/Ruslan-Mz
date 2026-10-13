@@ -1,6 +1,6 @@
 # Ruslan Mozhaev
 
-**Senior Mobile / Full-Stack Developer** — React Native · native iOS & Android · Node.js / TypeScript · AI integration
+**Senior Mobile / Full-Stack Engineer** — React Native · native iOS & Android · Node.js / TypeScript · AI integration
 
 20 years in software development, 15 of them in mobile. Lead developer on an enterprise mobile product that has been in production for more than five years and is now in its third iteration. I take products from an idea to the stores — mobile client, backend, database, auth, integrations with external services.
 
