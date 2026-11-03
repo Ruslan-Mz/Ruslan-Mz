@@ -28,7 +28,7 @@ Coding agents write much of the code. Architecture, review and the final check �
 
 [mozhaev.pro/dev](https://mozhaev.pro/dev/) · [ruslan@mozhaev.pro](mailto:ruslan@mozhaev.pro) · [LinkedIn](https://www.linkedin.com/in/ruslanmozhaev) · [Telegram](https://t.me/mozhaevruslan)
 
-Open to freelance and contract work — part-time now, full capacity from January 2027.
+Open to freelance and contract work — part-time now, full capacity in 2027.
 
 ---
 
